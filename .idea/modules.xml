@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/knigovert-book/knigovert-book.iml" filepath="$PROJECT_DIR$/knigovert-book/knigovert-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knigovert-discovery/knigovert-discovery.iml" filepath="$PROJECT_DIR$/knigovert-discovery/knigovert-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knigovert-review/knigovert-review.iml" filepath="$PROJECT_DIR$/knigovert-review/knigovert-review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knigovert-user/knigovert-user.iml" filepath="$PROJECT_DIR$/knigovert-user/knigovert-user.iml" />
+    </modules>
+  </component>
+</project>
